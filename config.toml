@@ -1,6 +1,6 @@
 baseurl = "https://ycopy-icopy.netlify.com/"
 title = "RuBisCO Blog"
-theme = "white"
+theme = "mytheme"
 languageCode = "ja"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""

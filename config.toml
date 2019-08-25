@@ -13,11 +13,11 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/home-bg-jeep.jpg"
+  header_image = "img/home-bg-water2.jpg"
   SEOTitle = "You copy? I copy!"
   description = "RuBisCO Blog"
   keyword = "RuBisCO Blog, Web, RasberryPi"
-  slogan = "You copy?，I copy!"
+  slogan = "You copy? I copy!"
 
   image_404 = "img/404-bg.jpg"
   title_404 = "404 :("
